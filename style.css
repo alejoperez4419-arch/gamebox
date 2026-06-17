@@ -16,7 +16,7 @@ body {
     overflow-y: auto;
     overflow-x: hidden;
     background-size: cover;
-    background-image: url(fondo.avif);
+    background-image: url(Fondo.png);
     background-position: center;
 }
 
@@ -74,7 +74,7 @@ body {
 /* Input */
 
 input {
-    width: 100%;
+width: 100%;
     max-width: 450px;
     height: 55px;
     border: none;
@@ -84,14 +84,14 @@ input {
     font-size: 18px;
     margin-bottom: 20px;
     font-family: 'Russo One', sans-serif;
-    background: red;
+    background: #fff600;
 }
 
 /* Botones */
 
 button {
     border: none;
-    background: #177537;
+    background: #44ff00;
     color: #00184d;
     padding: 14px 35px;
     font-size: 16px;
@@ -118,7 +118,7 @@ button:hover {
 /* Carta */
 
 .card {
-    background: #a70002;
+    background: #975ff3;
     border: 2px solid transparent;
     border-radius: 18px;
     padding: 12px;
